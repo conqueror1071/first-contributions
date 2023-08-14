@@ -955,6 +955,7 @@
 - [hawkingwallct](https://github.com/hawkingwallct)
 - [Flyaway] (https://github.com/kayua27)
 - [Art Villareal] (https://github.com/Bushido-Art)
+- [Conqueror1071](https://github.com/conqueror1071)
 - [Daniel Kaijzer] (https://github.com/danielkaijzer)
 - [Ephraim Beltran] (https://github.com/ephraim-beltran)
 - [heywhf] (https://github.com/heywhf)
